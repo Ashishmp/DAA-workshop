@@ -1,0 +1,13 @@
+p{
+    background-color: rgb(188, 188, 241);
+border: 6px dotted black ;
+border-radius: 50px;
+margin-left:  100px;
+padding: 50px;
+color:black;
+width: 60%;
+height: 30%;
+@media tv {min-width: 7762px;
+    
+}
+}
